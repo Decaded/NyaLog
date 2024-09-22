@@ -2,8 +2,10 @@
 
 A simple and customizable logging package for console output, supporting multiple timestamp formats.
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![npm version](https://img.shields.io/npm/v/nyalog)
-![License](https://img.shields.io/badge/license-MIT-blue)
+[![npm (scoped)](https://img.shields.io/npm/v/@decaded/nyalog)](https://www.npmjs.com/package/@decaded/nyalog)
+[![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@decaded/nyalog)](https://bundlephobia.com/result?p=@decaded/nyalog)
+[![npm](https://img.shields.io/npm/dt/@decaded/nyalog)](https://www.npmjs.com/package/@decaded/nyalog)
+[![GitHub](https://img.shields.io/github/license/Decaded/nyalog)](https://github.com/Decaded/nyalog/blob/master/LICENSE.md)
 
 ## Installation
 
