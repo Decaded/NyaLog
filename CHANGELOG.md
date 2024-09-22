@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.1] - 22-09-2024
+
+- Added [license](LICENSE).
+
 ## [1.0.0] - 22-09-2024
 
 ### Initial Release
