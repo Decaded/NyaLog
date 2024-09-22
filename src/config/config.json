@@ -1,0 +1,31 @@
+{
+  "colors": {
+    "green": "\u001b[32m",
+    "cyan": "\u001b[36m",
+    "red": "\u001b[31m",
+    "yellow": "\u001b[33m",
+    "bold_red": "\u001b[31m\u001b[1m",
+    "bold_green": "\u001b[32m\u001b[1m",
+    "bold_magenta": "\u001b[35m\u001b[1m",
+    "undefined": "\u001b[41m\u001b[37m",
+    "text": "\u001b[37m",
+    "clear": "\u001b[0m"
+  },
+  "messages": {
+    "OK": "[ OK ]    ",
+    "WARN": "[ WARN ]  ",
+    "ERROR": "[ ERROR ] ",
+    "INFO": "[ INFO ]  ",
+    "DEBUG": "[ DEBUG ] ",
+    "UNDEFINED": "[ UNDEFINED LOG TYPE ]",
+    "STOP": "[ STOP ]  ",
+    "START": "[ START ] "
+  },
+  "validator": {
+    "timestamps": [
+      "EUROPEAN",
+      "AMERICAN",
+      "ISO"
+    ]
+  }
+}
