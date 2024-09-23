@@ -1,31 +1,31 @@
 # Contributing to NyaLog
 
-Hey there! 👋 Thanks for considering contributing to NyaLog. We’re excited to have you here!
+Hello and thank you for your interest in contributing to [NyaLog](https://github.com/Decaded/NyaLog)! We appreciate your time and effort in helping us improve.
 
 ## How You Can Help
 
-There are a few ways you can get involved:
+We welcome contributions in several ways:
 
-1. **Bug Reports**: If you find a bug, please let us know! Use our issue template to provide details, and we’ll look into it.
-2. **Feature Requests**: Have an idea that could make NyaLog even better? We’d love to hear it! Submit a feature request.
-3. **Code Contributions**: Want to dive in and code? Awesome! Here’s how to do it:
+1. **Bug Reports**: If you encounter a bug, please let us know! Use our [issue template](https://github.com/Decaded/NyaLog/issues/new?assignees=&labels=&template=bug_report.md&title=) to provide all necessary details, and we’ll take a look.
+2. **Feature Requests**: Got an idea to make NyaLog even better? We’re all ears! Submit a [feature request](https://github.com/Decaded/NyaLog/issues/new?assignees=&labels=&template=feature_request.md&title=) and let’s discuss.
+3. **Code Contributions**: Ready to get your hands dirty with some code? Fantastic! Here’s how you can contribute:
 
 ### Getting Started
 
-1. **Fork the Repository**: Click that fork button at the top right of the page to create your own copy of the repo.
-2. **Clone Your Fork**: Use `git clone` to download your fork to your local machine.
-3. **Create a New Branch**: Make a new branch for your feature or bug fix: `git checkout -b my-feature-branch`
-4. **Make Your Changes**: Dive into the code and make your magic happen! 💻✨
-5. **Write Tests**: We love tests! Please add some to cover your changes.
-6. **Push Your Changes**: Once you’re done, push your branch back to your fork: `git push origin my-feature-branch`
-7. **Submit a Pull Request**: Go to the original repository and submit a pull request from your branch.
+1. **Fork the Repository**: Start by creating a personal copy of the repo using the fork button at the top right.
+2. **Clone Your Fork**: Use `git clone` to download your fork to your local development environment.
+3. **Create a New Branch**: Always create a new branch for your feature or bug fix: `git checkout -b my-feature-branch`.
+4. **Make Your Changes**: Feel free to dig into the code and work your magic!
+5. **Write Tests**: Ensure your changes are covered with appropriate tests. This helps maintain stability.
+6. **Push Your Changes**: Once ready, push your branch to your fork: `git push origin my-feature-branch`.
+7. **Submit a Pull Request**: Head to the original repository and [open a pull request](https://github.com/Decaded/NyaLog/pulls) from your branch.
 
 ### Code Style
 
-We want our code to be clean and consistent. Please use ESLint to help with this. If you're unsure about anything, feel free to reach out!
+Please ensure your code follows our style guidelines. We use ESLint for consistent formatting, so run it before submitting your changes. If you’re unsure about any conventions, feel free to reach out via an issue.
 
-## Got Questions?
+## Questions?
 
-If you’re ever unsure about something, don’t hesitate to ask! You can open an issue or reach out to us in the discussions.
+If you have any questions or need guidance, feel free to [open an issue](https://github.com/Decaded/NyaLog/issues). We're happy to help!
 
-Thanks for helping us make NyaLog better! Your contributions mean a lot. ❤️
+Thank you for contributing to NyaLog! Your input makes a big difference. ❤️
