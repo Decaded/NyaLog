@@ -69,9 +69,9 @@ logger.consoleLog('eror', 'This is wrongly typed value.');
 
 ### `consoleLog` Parameters
 
-- `logType` (string): The type of log (e.g., `'info'`, `'error'`, etc.).
-- `message` (string): The primary message to be logged. Treat this how you would normally use `console.log()`.
-- `extraDetails` (string): Secondary argument for `'error'` type, for example `error.stack`
+- **`logType`** (string): Specifies the type of log (e.g., `'info'`, `'error'`, etc.).
+- **`message`** (string): The primary message to be logged.
+- **`extraDetails`** (string): An optional secondary argument specifically for the `'error'` log type.
 
 ### Supported Timestamp Formats
 
