@@ -13,7 +13,11 @@
     "logger",
     "javascript"
   ],
-  "author": "Decaded",
+  "author": "Decaded (https://decaded.dev)",
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/decaded"
+  },
   "license": "MIT",
   "description": "A simple logging package for console output, supporting multiple timestamp formats.",
   "repository": {
